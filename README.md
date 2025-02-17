@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💻 Daniel | Engenharia de Telecomunicações 📡
 
-<!--
-**DRYZWE/DRYZWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Daniel, estudante de **Engenharia de Telecomunicações** na UFF. Sou um entusiasta e curioso por **blockchain**, sempre em busca de aprender mais sobre **automação de serviços, IA e novas demandas do mercado**.  
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim  
+🔹 Apaixonado por tecnologia e inovação  
+🔹 Explorando o universo do **blockchain e automação**  
+🔹 Buscando aprimorar meus conhecimentos em **IA e tendências do mercado**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias que domino  
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+## 📊 Estatísticas  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=radical)  
+
+## 🌍 Onde me encontrar  
+📌 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/daniel-de-albuquerque-lima-537364182/))  
+📌 [E-mail](mailto:d.albuquerque.lima@outlook.com)  
+
+💡 Sempre aberto a novas conexões e oportunidades! 🚀  
+
