@@ -15,9 +15,9 @@ Olá! Sou Daniel, estudante de **Engenharia de Telecomunicações** na UFF. Sou 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ## 📊 Estatísticas  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DRYZWE&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRYZWE&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=DRYZWE&theme=radical)  
 
 ## 🌍 Onde me encontrar  
 📌 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/daniel-de-albuquerque-lima-537364182/))  
