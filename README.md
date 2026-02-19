@@ -21,8 +21,6 @@ Olá! Sou Daniel, estudante de **Engenharia de Telecomunicações** na UFF. Sou 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dryzwe&show_icons=true&theme=radical"/>  
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryzwe&layout=compact&theme=radical"/>  
 <img height="170em" src="https://streak-stats.demolab.com/?user=DRYZWE&theme=radical"/>  
 
 </div>
